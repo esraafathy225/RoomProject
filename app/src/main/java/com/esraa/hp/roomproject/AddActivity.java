@@ -14,7 +14,7 @@ EditText editName,editPhone;
 Button add;
 String name,phone;
 
-String comment="هنعمل AsyncTask و انادى على الميثود اللى بتعمل create جواه بعد كدة اعمله execute جوة ال onCreate";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
